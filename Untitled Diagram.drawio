@@ -1,1 +1,80 @@
-<mxfile host="app.diagrams.net" modified="2021-04-09T07:03:45.926Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="Zeq8pR3tvBm0KWawsG_L" version="13.8.8" type="github"><diagram id="5XN13PpdtXFzVVi5vNZZ" name="Page-1">7Vlfc9o4EP80muk90LFkZOxHDKa9mfbuZnLTNo8CG+OrsThjAuTTn1aWbCsYmgIFckkmk9GupJW8f37a3SB7MN98yNli9pmHUYqIFW6QPUSE4C4hCH6tcFtyeo5ixHkSqkU14y55jBTTUtxVEkZLY2HBeVokC5M54VkWTQqDx/Kcr81lU56apy5YHO0w7iYs3eV+TcJiVnJd0qv5H6MknumTseOVM3OmF6svWc5YyNcNlh0ge5BzXpSj+WYQpaA8rZdy32jPbHWxPMqK52z4GARr8j38MrjPv6yzPx7Hq8/jDnHU5Yqt/uIoFApQJM+LGY95xtKg5vqTVf4QgVQsiJyvslBSlqDqDZ84X6gl/0RFsVWmZauCC9asmKdqVlw/335T+yVxD8R7QjU93DRnh1tNbZLiW2OpIO8bU/UuIPSmXa0pRS75Kp9EB1SlvY/lcVQcUmm5DtTYOEDZ5EPE55H4CLEgj1JWJA+mnzHlrnG1rraoGCij/oSBbbsU/MDSlToKBRT1A+QFKHCQ10O+8AEnFZ/kj3MximG0WC1nMO1T5Poo6CGXIN+DnS5Fvo0CF7kYed1W7/nExgIFDCOzNIkzMZ4ItUe5YDxEeZGIMOuriXkShtK58miZPLKxlAcGW/AkK6RWqI/osNWEB10bToo2qAUs1ClGPBomUrs61nvsqk9VMNbRUf1sKyrpf8HnNERrOXoLn06Xwr2emr261PGegNsdYYg8S9m1P5CDEfLd3//8e8e0daSDRdezpIjuFkzGzFqAv2nwaZKmA57yXO61LWs0sg7G346Z9poDO5ZhC1vT6xqgsdbrrAHOjrXfPCcFGaZXR9HjcY08E9fwTeEadvfiWv8grknRsKJvIbcnHV6gmyP3+MjvyoEAPqvVpLcBbdrfToc2gWzYso1w0rh5KrI5htRu72I4d0spTSOLqXKTn09p8C9KaZ4d+jcW+95u7KtIXy5YZtje+XcFCbY/Kd+iPlwyHrN3FqAAEedbraPfYAiqFRVDVnSmbJ6k23L7nGd8Kd89Y8lSOgMssBabamrMJt9j6U8d8wbvSNetjiNdrx5TOFxfW+MWIvRpkUWFxoArK4iK0hqkUoeCM4QxCKegJSoU/6O1uFqrneooMaQWUxqqmilBmEppAm0J7cNIwLAgqR65jp714OsFMGsS/vj1TZSxK+k1TAtWGZUwhyVZgjXQCq6BaQI2TCrIhskatGHCkjwF3OpICvejQznT+OYSm9u02sToFtXuaL3aWim8DjkKgFvrvOvUYrYNvt04ni3ribgh6KldJVkZt8k0XU6t2/HNMiJFhJdBqR35dl/VcxYMtm2bz6oG22Of1V//cOqU+XWmVOc0PjGLxe55EipsStUZ8AUyqt7VM6oL5Di31bche8r11xGMvfPVN8TRWzUQ6+rp5NYNNesmcql4JC2u4YF1wcwUBn0CPbu+GIx2zHxKG2ckfhznPG0c2zbbOBhfu41D3KvjXKNy7BmVYzX5w8qxd5Fm+MvshpOWyvGVdMN1v+wsLSPqPoHUsyCqruuVVOdi+c3/pjX+FFOv3xon188dK0zF6Nh/MF4GU5+bqt4Wptot0fPWjXs53TjddevDfi+o2mzQhPNlOwmMCc0teBCpVIFqdcmFvmzZSVL27UCgeBx1Lw/+iCdSkC6Q8DnwUL4173aad93mMc3mndMQ/9a8O/zOnKd552KzeadLk9tt3tltReHryGzPaXmCzX9b6qL+xMz2cr0BvMcPXl4uS63L5bJIwWLDFDUg2sF/</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-09T07:10:19.946Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="OljeWlWnqdMYGxzE20Pb" version="13.8.8" type="github">
+  <diagram id="5XN13PpdtXFzVVi5vNZZ" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HEEw2kdVCYrVwnNzbuMb-26" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" parent="1" source="HEEw2kdVCYrVwnNzbuMb-1" target="HEEw2kdVCYrVwnNzbuMb-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HEEw2kdVCYrVwnNzbuMb-33" value="实时&lt;br&gt;push测点关联" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="HEEw2kdVCYrVwnNzbuMb-26" vertex="1" connectable="0">
+          <mxGeometry x="-0.184" y="-20" relative="1" as="geometry">
+            <mxPoint x="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HEEw2kdVCYrVwnNzbuMb-1" value="子公司IOT" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00FF00;" parent="1" vertex="1">
+          <mxGeometry x="160" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HEEw2kdVCYrVwnNzbuMb-15" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HEEw2kdVCYrVwnNzbuMb-2" target="HEEw2kdVCYrVwnNzbuMb-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HEEw2kdVCYrVwnNzbuMb-18" value="定时&lt;br&gt;pull 标准更新" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="HEEw2kdVCYrVwnNzbuMb-15" vertex="1" connectable="0">
+          <mxGeometry x="0.1103" y="26" relative="1" as="geometry">
+            <mxPoint x="-6" y="47" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HEEw2kdVCYrVwnNzbuMb-16" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="HEEw2kdVCYrVwnNzbuMb-2" target="HEEw2kdVCYrVwnNzbuMb-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HEEw2kdVCYrVwnNzbuMb-19" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22pull%20%E6%A0%87%E5%87%86%E6%9B%B4%E6%96%B0%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22246%22%20y%3D%22231%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="HEEw2kdVCYrVwnNzbuMb-16" vertex="1" connectable="0">
+          <mxGeometry x="-0.3333" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HEEw2kdVCYrVwnNzbuMb-20" value="定时&lt;br&gt;pull 标准更新" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="HEEw2kdVCYrVwnNzbuMb-16" vertex="1" connectable="0">
+          <mxGeometry x="-0.24" y="4" relative="1" as="geometry">
+            <mxPoint x="-14" y="18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HEEw2kdVCYrVwnNzbuMb-17" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HEEw2kdVCYrVwnNzbuMb-2" target="HEEw2kdVCYrVwnNzbuMb-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HEEw2kdVCYrVwnNzbuMb-21" value="定时&lt;br&gt;pull 标准更新" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="HEEw2kdVCYrVwnNzbuMb-17" vertex="1" connectable="0">
+          <mxGeometry x="0.2621" y="-15" relative="1" as="geometry">
+            <mxPoint x="-25" y="22" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HEEw2kdVCYrVwnNzbuMb-2" value="集团端" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF66;" parent="1" vertex="1">
+          <mxGeometry x="330" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HEEw2kdVCYrVwnNzbuMb-28" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" source="HEEw2kdVCYrVwnNzbuMb-11" target="HEEw2kdVCYrVwnNzbuMb-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HEEw2kdVCYrVwnNzbuMb-29" value="实时&lt;br&gt;push测点关联" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="HEEw2kdVCYrVwnNzbuMb-28" vertex="1" connectable="0">
+          <mxGeometry x="0.1158" y="-1" relative="1" as="geometry">
+            <mxPoint x="19" y="6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HEEw2kdVCYrVwnNzbuMb-11" value="子公司IOT" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00FF00;" parent="1" vertex="1">
+          <mxGeometry x="330" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HEEw2kdVCYrVwnNzbuMb-27" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" source="HEEw2kdVCYrVwnNzbuMb-12" target="HEEw2kdVCYrVwnNzbuMb-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HEEw2kdVCYrVwnNzbuMb-31" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E5%AE%9E%E6%97%B6%26lt%3Bbr%26gt%3B%E6%B5%8B%E7%82%B9%E5%85%B3%E8%81%94%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22421%22%20y%3D%22260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="HEEw2kdVCYrVwnNzbuMb-27" vertex="1" connectable="0">
+          <mxGeometry x="-0.3813" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HEEw2kdVCYrVwnNzbuMb-32" value="实时&lt;br&gt;push测点关联" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="HEEw2kdVCYrVwnNzbuMb-27" vertex="1" connectable="0">
+          <mxGeometry x="-0.216" y="22" relative="1" as="geometry">
+            <mxPoint x="22" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HEEw2kdVCYrVwnNzbuMb-12" value="子公司IOT" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00FF00;" parent="1" vertex="1">
+          <mxGeometry x="500" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
